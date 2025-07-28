@@ -67,6 +67,8 @@ export default tseslint.config([
   },
 ])
 ```
-# ChatApp
-# ChatApp
-# ChatApp
+# Node version 21+
+# Install the dependencies
+  npm install
+# To start the program
+  npm run dev
