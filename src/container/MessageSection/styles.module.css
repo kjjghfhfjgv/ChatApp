@@ -1,0 +1,25 @@
+.messagesSection {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.chatItem {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.right {
+  justify-content: flex-end;
+}
+
+.chatDisplayArea {
+  flex: 1;
+  overflow-y: auto;
+  padding-inline: 80px;
+}
+
+.chatTextArea {
+  padding: 10px;
+}

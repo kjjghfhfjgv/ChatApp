@@ -1,0 +1,14 @@
+.wrapper {
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #161717;
+  max-width: 30%;
+  margin-block: 20px;
+  left: 0;
+  text-align: left;
+}
+
+.wrapper.sent {
+  background-color: #144d37;
+  right: 0;
+}
